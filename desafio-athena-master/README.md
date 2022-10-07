@@ -1,6 +1,6 @@
 # desafio-athena-master-unimed-data-science
-Repositório para desafio UNIMED - Data Science sobre o Amazon Athena
-Neste desafio foi explorado o poder do SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena. 
+Repositório para desafio UNIMED - Data Science sobre o Amazon Athena.<br>
+Neste desafio foi explorado o poder do SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena.<br>
 Foi apresentado na prática esse serviço de consultas interativas que facilita a análise de dados no Amazon S3 usando SQL padrão.
 
 ### Serviços utilizados nessa atividade prática

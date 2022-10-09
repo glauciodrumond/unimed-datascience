@@ -1,5 +1,6 @@
-# dio-live-dynamodb
-Repositório sobre o Amazon DynamoDB
+# Dynamodb
+Repositório sobre o Amazon DynamoDB<br>
+Projeto completo no meu [Portfolio](https://blog.devgenius.io/how-to-use-aws-dynamodb-dc646943f6ac)
 
 ### Serviço utilizado
   - Amazon DynamoDB

@@ -1,17 +1,17 @@
-# package_name
+# IMAGE PROCESS
 
 Description. 
-The package package_name is used to:
-	Processing:
-		- Histogram matching
-		- Structural similarity
-		- Resize image
-	Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot results
-		- Plot histogram
+<br>The package package_name is used to:
+	<br><br>Processing:
+		<br>- Histogram matching
+		<br>- Structural similarity
+		<br>- Resize image
+	<br><br>Utils:
+		<br>- Read image
+		<br>- Save image
+		<br>- Plot image
+		<br>- Plot results
+		<br>- Plot histogram
 
 ## Installation
 

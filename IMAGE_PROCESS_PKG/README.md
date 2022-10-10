@@ -1,7 +1,7 @@
 # IMAGE PROCESS
 
-<h2>Description. 
-<br>The package package_name is used to:
+This was a project from a bootcamp hosted by [DIO](https://dio.me) - Digital Innovation One. 
+<br>The package image_process_DIO is used to:
 	<br><h3>Processing:</h3>
 		<br>- Histogram matching
 		<br>- Structural similarity

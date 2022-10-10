@@ -1,12 +1,12 @@
 # IMAGE PROCESS
 
-Description. 
+<h2>Description. 
 <br>The package package_name is used to:
-	<br><br>Processing:
+	<br><h3>Processing:</h3>
 		<br>- Histogram matching
 		<br>- Structural similarity
 		<br>- Resize image
-	<br><br>Utils:
+	<br><h3>Utils:</h3>
 		<br>- Read image
 		<br>- Save image
 		<br>- Plot image
